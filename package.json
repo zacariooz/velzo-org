@@ -1,0 +1,26 @@
+{
+  "name": "@ezzacario/velzo-org",
+  "version": "1.0.0",
+  "description": "just for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacariooz/velzo-org.git"
+  },
+  "keywords": [
+    "TEA",
+    "Tutorial"
+  ],
+  "author": "zacariooz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zacariooz/velzo-org/issues"
+  },
+  "homepage": "https://github.com/zacariooz/velzo-org#readme",
+  "dependencies": {
+    "velzo-org": "^1.0.0"
+  }
+}
